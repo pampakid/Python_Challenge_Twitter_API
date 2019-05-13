@@ -10,4 +10,4 @@ I read vader is better for social sentiment analysis, so I'll stick with BobbyTa
 
 ## Credits
 This code was forked from @BobbyTaylor82. 
-Special mentions to @llSourcell and @arnauddelaunay who's work was also helpful.
+Special mentions to @llSourcell and @arnauddelaunay.
